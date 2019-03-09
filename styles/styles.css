@@ -53,7 +53,7 @@ hr {
 }
 
 img {
-  width: 40%;
+  width: 45%;
 }
 
 .container {
@@ -132,16 +132,16 @@ img {
 
 .cloud {
   position: absolute;
-  width: 25%;
+  width: 20%;
 }
 
 .cloud-right {
-  top: 50px;
+  top: 1%;
   right: 100px;
 }
 
 .cloud-left {
-  top: 10%;
+  top: 8%;
   left: 6%;
 }
 
