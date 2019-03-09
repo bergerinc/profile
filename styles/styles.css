@@ -53,7 +53,7 @@ hr {
 }
 
 img {
-  width: 240px;
+  width: 40%;
 }
 
 .container {
@@ -84,7 +84,7 @@ img {
 .container-bottom {
   background-color: #305854;
   bottom: 0;
-  color: #ffffffbb;
+  color: #6b9490;
   display: block;
   font-size: .8em;
   margin: 0;
@@ -146,15 +146,15 @@ img {
 }
 
 .footer-link {
-  color: #74BDB4;
+  color: #90bbb6;
   display: inline-block;
   font-size: 1.1rem;
-  margin: 10px;
+  margin: .5rem 1rem;
   text-decoration: none;
 }
 
 .footer-link:hover {
-  text-decoration: underline;
+  color: #ffffffcc;
 }
 
 .btn {
